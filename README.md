@@ -15,3 +15,4 @@ The repository ADM-HW3 contains the code from Homework 3 for the course of Algor
 * The file `main.ipynb` contains a Jupyter Notebook with questions 1-5 and question 7 of Homework 3 "Places of the World".
 * The file `CommandLine.sh` contains the answer to Command Line Question in a .sh bash executable file.
 * The file `Rankinglist.txt` contains the answer to the teoretical question 7.
+* The files `map_point_4.JPG` and `map_point_4_0.JPG` are two images needed for question number 4, so that the output can be visualized without running the code.
